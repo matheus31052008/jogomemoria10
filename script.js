@@ -7,8 +7,8 @@ const cardArray = [
 { name: 'fish', img: 'fish.jpeg' },
 { name: 'gato', img: 'horse.png' },
 { name: 'gato', img: 'horse.png' },  
-{ name: 'cachorro', img: 'imagens/cachorro.png' },
-{ name: 'cachorro', img: 'imagens/cachorro.png' }
+{ name: 'bird', img: 'images.jpeg' },
+{ name: 'bird', img: 'images.jpeg' }
 ];
 const grid = document.getElementById('grid');
 let cardsChosen = [], cardsChosenId = [], cardsWon = [];
